@@ -1,0 +1,339 @@
+{
+  "main": {
+    "id": "c979df10f2a63a88",
+    "type": "split",
+    "children": [
+      {
+        "id": "430dfb359c9215f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a112e036d52c851c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TryHackMe/Introduction to Offensive security/Operating system security.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1d671d8c0599cba3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TryHackMe/Introduction to Offensive security/Network security.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1717feea723db04b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TryHackMe/Network Fundamentals/Intro to LAN.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "02096f6a3ffa6beb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TryHackMe/Network Fundamentals/OSI Model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fd5ec239e8a650eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TryHackMe/Network Fundamentals/Packets & Frames.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2d08f2d8ec47f615",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TryHackMe/Network Fundamentals/OSI Model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d5239f3fa25a63e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TryHackMe/How the web works/DNS in detail.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f9f7f6ed5ab50443",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TryHackMe/How the web works/DNS in detail.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0f1673642f8468db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TryHackMe/How the web works/HTTP in detail.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "89e741015aae86fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TryHackMe/Introduction to Defensive security/Intro to digital forensics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dd54a84c1a1b47df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TryHackMe/Introduction to Defensive security/Security operations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d9fdb8014b46df1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TryHackMe/Network Fundamentals/What is networking.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "058893bc0568e248",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TryHackMe/Network Fundamentals/Intro to LAN.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "063327aefe891e16",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b9bf29cbfeb2afd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "169a9cef88d4910d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f451c180b3d22bf5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "959f50f3d3e9f9ed",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6697a86c0bcc87cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a0d36a9f07ab040",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c8afb1f0442c6c5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TryHackMe/How the web works/HTTP in detail.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "98d0fcdcd18965a1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TryHackMe/How the web works/HTTP in detail.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6bd1bb8cfc018065",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fed51c8a2f3ebbf0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TryHackMe/How the web works/HTTP in detail.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0f1673642f8468db",
+  "lastOpenFiles": [
+    "Pasted image 20230417203940.png",
+    "TryHackMe/How the web works/DNS in detail.md",
+    "TryHackMe/How the web works/HTTP in detail.md",
+    "Pasted image 20230417201034.png",
+    "TryHackMe/Linux Fundamentals/Linux Fundamentals.md",
+    "TryHackMe/Linux Fundamentals",
+    "TryHackMe/Network Fundamentals/OSI Model.md",
+    "TryHackMe/Network Fundamentals/Extending your network.md",
+    "TryHackMe/Network Fundamentals/Packets & Frames.md",
+    "Pasted image 20230416123555.png",
+    "Pasted image 20230416121120.png",
+    "Pasted image 20230416105108.png",
+    "Pasted image 20230416105018.png",
+    "Pasted image 20230416101241.png",
+    "Pasted image 20230416095827.png",
+    "Pasted image 20230416095800.png",
+    "TryHackMe/Certificates/THM-3CPCEJPTET.png",
+    "TryHackMe/Certificates",
+    "osimodel.svg",
+    "TryHackMe/Network Fundamentals/Intro to LAN.md",
+    "TryHackMe/Network Fundamentals/What is networking.md",
+    "TryHackMe/Introduction to Defensive security/Intro to digital forensics.md",
+    "TryHackMe/How the web works",
+    "TryHackMe/Untitled.md",
+    "TryHackMe/Network Fundamentals",
+    "TryHackMe/Introduction to Defensive security/Security operations.md",
+    "TryHackMe/THM-3CPCEJPTET.png.crdownload",
+    "TryHackMe/Notes.md",
+    "Main.md",
+    "README.md",
+    "ransom-letter.pdf",
+    "ransom-letter.doc",
+    "ransomlettter2.zip",
+    "Nepotvrzeno 818314.crdownload",
+    "TryHackMe/Introduction to Offensive security/Network security.md",
+    "TryHackMe/Introduction to Defensive security",
+    "TryHackMe/Introduction to Offensive security/Operating system security.md",
+    "TryHackMe/Introduction to Offensive security/Web application security.md",
+    "TryHackMe/Introduction to cybersecurity/Intro to offensive security.md",
+    "TryHackMe/Introduction to cybersecurity/Intro to defensive security.md",
+    "TryHackMe/Introduction to cybersecurity/Careers in cyber.md",
+    "Untitled.canvas"
+  ]
+}
