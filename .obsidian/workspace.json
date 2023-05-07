@@ -8,163 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a112e036d52c851c",
+            "id": "048b75b1aa7823bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TryHackMe/Introduction to Offensive security/Operating system security.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1d671d8c0599cba3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TryHackMe/Introduction to Offensive security/Network security.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1717feea723db04b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TryHackMe/Network Fundamentals/Intro to LAN.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "02096f6a3ffa6beb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TryHackMe/Network Fundamentals/OSI Model.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fd5ec239e8a650eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TryHackMe/Network Fundamentals/Packets & Frames.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2d08f2d8ec47f615",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TryHackMe/Network Fundamentals/OSI Model.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d5239f3fa25a63e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TryHackMe/How the web works/DNS in detail.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f9f7f6ed5ab50443",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TryHackMe/How the web works/DNS in detail.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0f1673642f8468db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TryHackMe/How the web works/HTTP in detail.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "89e741015aae86fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TryHackMe/Introduction to Defensive security/Intro to digital forensics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dd54a84c1a1b47df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TryHackMe/Introduction to Defensive security/Security operations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d9fdb8014b46df1d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TryHackMe/Network Fundamentals/What is networking.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "058893bc0568e248",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TryHackMe/Network Fundamentals/Intro to LAN.md",
+                "file": "Junior Security Analyst/MITRE.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -230,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TryHackMe/How the web works/HTTP in detail.md",
+                "file": "Junior Security Analyst/MITRE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TryHackMe/How the web works/HTTP in detail.md",
+                "file": "Junior Security Analyst/MITRE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TryHackMe/How the web works/HTTP in detail.md"
+                "file": "Junior Security Analyst/MITRE.md"
               }
             }
           }
@@ -291,11 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f1673642f8468db",
+  "active": "048b75b1aa7823bb",
   "lastOpenFiles": [
+    "TryHackMe/How the web works/HTTP in detail.md",
+    "Junior Security Analyst/MITRE.md",
+    "github_moje_pc.pub",
+    "github_moje_pc",
     "Pasted image 20230417203940.png",
     "TryHackMe/How the web works/DNS in detail.md",
-    "TryHackMe/How the web works/HTTP in detail.md",
     "Pasted image 20230417201034.png",
     "TryHackMe/Linux Fundamentals/Linux Fundamentals.md",
     "TryHackMe/Linux Fundamentals",
@@ -311,7 +169,6 @@
     "Pasted image 20230416095800.png",
     "TryHackMe/Certificates/THM-3CPCEJPTET.png",
     "TryHackMe/Certificates",
-    "osimodel.svg",
     "TryHackMe/Network Fundamentals/Intro to LAN.md",
     "TryHackMe/Network Fundamentals/What is networking.md",
     "TryHackMe/Introduction to Defensive security/Intro to digital forensics.md",
@@ -326,9 +183,7 @@
     "ransom-letter.pdf",
     "ransom-letter.doc",
     "ransomlettter2.zip",
-    "Nepotvrzeno 818314.crdownload",
     "TryHackMe/Introduction to Offensive security/Network security.md",
-    "TryHackMe/Introduction to Defensive security",
     "TryHackMe/Introduction to Offensive security/Operating system security.md",
     "TryHackMe/Introduction to Offensive security/Web application security.md",
     "TryHackMe/Introduction to cybersecurity/Intro to offensive security.md",
